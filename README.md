@@ -553,17 +553,5 @@ Through these programs, I learned:
 
 This repository will grow as I learn more Java concepts.
 
-### 📚 Coming Next
-
-* 🔀 Conditional Statements
-* 🔁 Loops
-* 📋 Arrays
-* 🧩 Methods
-* 🏗️ Object-Oriented Programming
-* 📦 Classes & Objects
-* 🔐 Encapsulation
-* 🧬 Inheritance
-* 🎭 Polymorphism
-* 🚀 And eventually DSA with Java
 
 > 💡 **Learning by writing, understanding, and practicing — one program at a time.**
